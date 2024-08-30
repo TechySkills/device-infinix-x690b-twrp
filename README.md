@@ -1,4 +1,4 @@
-# Device Tree for Infinix Note 7 - X690B - X690
+# TWRP Device Tree for Infinix Note 7 - X690B - X690
 
 ## Device specifications
 
