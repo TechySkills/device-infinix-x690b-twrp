@@ -66,8 +66,3 @@ if [ -n "$FOX_BUILD_LOG_FILE" -a -f "$FOX_BUILD_LOG_FILE" ]; then
 
 fi
 #
-
-COMMON_LUNCH_CHOICES := \
-    ofox_X690B-user \
-    ofox_X690B-userdebug \
-    ofox_X690B-eng
