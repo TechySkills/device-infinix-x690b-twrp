@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/infinix/Infinix-X690B
+DEVICE_PATH := device/Infinix/Infinix-X690B
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -52,7 +52,7 @@ BOARD_KERNEL_IMAGE_NAME := Image
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_KERNEL_SEPARATED_DTBO := true
 TARGET_KERNEL_CONFIG := Infinix-X690B_defconfig
-TARGET_KERNEL_SOURCE := kernel/infinix/Infinix-X690B
+TARGET_KERNEL_SOURCE := kernel/Infinix/Infinix-X690B
 
 # Kernel - prebuilt
 TARGET_FORCE_PREBUILT_KERNEL := true
