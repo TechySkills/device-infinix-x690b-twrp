@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_Infinix-X690B.mk
+    $(LOCAL_DIR)/twrp_X690B.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_X690B-user \
