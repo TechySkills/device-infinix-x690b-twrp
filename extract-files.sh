@@ -9,7 +9,7 @@
 set -e
 
 DEVICE=Infinix-X690B
-VENDOR=infinix
+VENDOR=Infinix
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
