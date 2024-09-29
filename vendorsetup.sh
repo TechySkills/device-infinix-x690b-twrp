@@ -43,7 +43,6 @@ export OF_CLOCK_POS=1
 export OF_LOOP_DEVICE_ERRORS_TO_LOG=1
 
 # Other OrangeFox configs
-export OF_ENABLE_LPTOOLS=1
 export OF_ALLOW_DISABLE_NAVBAR=0
 export OF_QUICK_BACKUP_LIST="/boot;/data;"
 export FOX_ENABLE_APP_MANAGER=1
