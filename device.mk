@@ -6,3 +6,13 @@
 #
 
 LOCAL_PATH := device/Infinix/X690B
+
+# Fastbootd
+PRODUCT_PACKAGES += \
+    android.hardware.fastboot@1.1-impl-mock \
+    android.hardware.fastboot@1.1-impl-mock.recovery \
+    fastbootd \
+    resetprop
+
+# Dynamic Partition
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
