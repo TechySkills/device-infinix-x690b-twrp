@@ -1,4 +1,4 @@
-name: Recovery Build
+name: OrangeFox Build
 
 on:
   workflow_dispatch:
