@@ -26,7 +26,7 @@ if [ "$1" = "$FDEVICE" ] || [  "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 
 # Version / Maintainer infos
 export OF_MAINTAINER="TechySkills"
-export FOX_VERSION=R12.1
+export FOX_VERSION=R12.1_1
 export FOX_BUILD_TYPE="Stable"
 
 # Device info
